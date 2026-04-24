@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://zamnolence.github.io"><img alt="Personal Website" src="https://shields.io/badge/Personal-Website-333" /></a>
-  <a href="[https://orcid.org/0000-0003-2966-5084](https://orcid.org/0000-0003-2966-5084)"><img alt="ORCID" src="https://shields.io/badge/ORCID-samwiwat-333?logo=orcid&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/dwiwat97](https://www.linkedin.com/in/dwiwat97/)"><img alt="LinkedIn" src="https://shields.io/badge/LinkedIn-samwiwat-333?logo=linkedin&logoColor=white" /></a>
+  <a href="https://orcid.org/0000-0003-2966-5084"><img alt="ORCID" src="https://shields.io/badge/ORCID-samwiwat-333?logo=orcid&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dwiwat97/"><img alt="LinkedIn" src="https://shields.io/badge/LinkedIn-samwiwat-333?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## About me
